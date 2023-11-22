@@ -1,0 +1,51 @@
+[{
+    "id": 1,
+    "tipo": "chori",
+    "nombre": "chori",
+    "precio": 1100,
+    "foto": "../media/foo.png"
+}, {
+    "id": 2,
+    "tipo": "milanesa",
+    "nombre": "sandwich de milanesa",
+    "precio": 2800,
+    "foto": "../media/foo.png"
+}, {
+    "id": 3,
+    "tipo": "hambur",
+    "nombre": "hamburgesa simple",
+    "precio": 1300,
+    "foto": "../media/foo.png"
+}, {
+    "id": 4,
+    "tipo": "hambur",
+    "nombre": "hamburgesa doble",
+    "precio": 1600,
+    "foto": "../media/foo.png"
+}, {
+    "id": 5,
+    "tipo": "hambur",
+    "nombre": "hamburgesa triple",
+    "precio": 1800,
+    "foto": "../media/foo.png"
+}, {
+    "id": 6,
+    "tipo": "lomo",
+    "nombre": "lomo",
+    "precio": 1800,
+    "foto": "../media/foo.png"
+}, {
+    "id": 7,
+    "tipo": "papas",
+    "nombre": "papas",
+    "precio": 800,
+    "foto": "../media/foo.png"
+}, {
+    "id": 8,
+    "tipo": "papas con bacon",
+    "nombre": "papas con bacon",
+    "precio": 1300,
+    "foto": "../media/foo.png"
+}
+
+]
